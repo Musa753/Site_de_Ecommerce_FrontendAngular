@@ -1,0 +1,9 @@
+
+ 
+<div id="product-list">
+  <div class="col-md-4" *ngFor="let product of ProductsList; index as i" >
+  <app-single-product
+    [product]="product">
+  </app-single-product>
+  </div>
+</div>

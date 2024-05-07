@@ -1,0 +1,14 @@
+ 
+        <div class="image-container">
+            <div class="product-image" [ngStyle]="{'background-image':'url(' + product.urlMainImage + ')'}"></div>
+            <div class="overlay">
+                <div class="button button-primary"   (click)="onGoToTheDescription()">View Details</div>
+                <div class="button button-primary" (click)="addToBasket()">Add To Cart</div>
+            </div>
+        </div>
+        <div class="product-details" >
+        <div class="product-title">{{product.name}}</div>
+        <div class="product-price">{{product.realPrice | currency :'EUR':true }}</div>
+        </div> 
+ 
+ 
