@@ -1,6 +1,12 @@
 Aperçu
 
 Ce projet est une application web destinée à la gestion de la recherche de produits, de l'inscription des utilisateurs, de la connexion, des fonctionnalités du panier d'achat, du placement de commandes et de la confirmation des commandes. L'application est structurée autour de plusieurs modules et composants, chacun étant responsable de fonctionnalités spécifiques.
+
+
+Aperçu Visuel
+
+Pour avoir un aperçu visuel de l'application, veuillez consulter les images fournies dans le dossier "aperçu" de ce dépôt. Ces images montrent différentes parties de l'interface utilisateur, y compris les pages d'accueil, de recherche, de connexion, de gestion du panier et de confirmation de commande.
+
 Modules et Composants
 
     Module de Recherche
