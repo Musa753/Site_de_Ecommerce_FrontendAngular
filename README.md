@@ -5,7 +5,7 @@ Ce projet est une application web destinée à la gestion de la recherche de pro
 
 Aperçu Visuel
 
-Pour avoir un aperçu visuel de l'application, veuillez consulter les images fournies dans le dossier "aperçu" de ce dépôt. Ces images montrent différentes parties de l'interface utilisateur, y compris les pages d'accueil, de recherche, de connexion, de gestion du panier et de confirmation de commande.
+Pour avoir un aperçu visuel de l'application, veuillez consulter les images fournies dans ce dépôt. Ces images montrent différentes parties de l'interface utilisateur, y compris les pages d'accueil, de recherche, de connexion, de gestion du panier et de confirmation de commande.
 
 Modules et Composants
 
